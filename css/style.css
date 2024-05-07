@@ -314,7 +314,7 @@ body {
   color: var(--highlite-text);
   font-size: 18px;
   line-height: 24px;
-  font-weight: 600px;
+  font-weight: 600;
 }
 .bg1 {
   text-align: center;
@@ -330,7 +330,7 @@ body {
   color: var(--highlite-text);
   font-size: 18px;
   line-height: 24px;
-  font-weight: 600px;
+  font-weight: 600;
 }
 
 .bg1 input {
